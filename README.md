@@ -1,2 +1,2 @@
 # Data-visualization
-Some examples of data visualization pipelines
+Some examples of data visualization pipelines and interactive graphics
